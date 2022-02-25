@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto Mono', monospace;
     color: #58a6ff;
+    margin: 40px;
     background-color: rgba(29, 31, 36, 0.99);
 }
