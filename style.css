@@ -8,4 +8,9 @@ body {
 a, a:hover, a:focus, a:active {
       text-decoration: none;
       color: #aeff2c;
- }
+}
+
+div.profileLink {
+   padding: 5px; 
+}
+
