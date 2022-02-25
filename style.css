@@ -4,3 +4,8 @@ body {
     margin: 40px;
     background-color: rgba(29, 31, 36, 0.99);
 }
+
+a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: #aeff2c;
+ }
